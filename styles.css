@@ -1,0 +1,22 @@
+/*LAURENT SHALA*/
+body {
+    text-align: center;
+    background-color: lightblue;
+}
+
+
+#div {
+    width: 100%;
+    margin: auto;
+    width: max-content;
+
+}
+
+
+#textarea {
+    width: 75%;
+    height: 60em;
+    margin: auto;
+    font-size: .8em;
+}
+
